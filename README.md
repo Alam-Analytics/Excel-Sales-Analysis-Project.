@@ -31,3 +31,5 @@ Tools Used
 
 ● Microsoft Excel
 ● Data Visualization best practices
+
+![Sales Analysis Charts](image_7603be.png.jpeg)
